@@ -1,0 +1,8 @@
+
+
+class MaybeTest {
+
+    fun just() {
+
+    }
+}
